@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary>Privacy & Terms</summary>
   <ol>
     <li>
