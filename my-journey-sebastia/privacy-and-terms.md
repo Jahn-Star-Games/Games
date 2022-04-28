@@ -1,5 +1,5 @@
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Privacy & Terms</summary>
   <ol>
     <li>
       <a href="#privacy-policy">Privacy Policy</a>
