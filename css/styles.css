@@ -11,7 +11,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
-@import url('https://fonts.googleapis.com/css?family=Roboto:400');
 :root {
   --bs-blue: #2937f0;
   --bs-indigo: #6610f2;
@@ -11411,7 +11410,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: url('./assets/img/gaming.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -11543,8 +11542,8 @@ footer a:hover, footer a:active, footer a:focus {
 
 .masthead {
   background-color: #f8f9fa;
-  padding-top: 7rem;
-  padding-bottom: 3rem;
+  padding-top: 12rem;
+  padding-bottom: 9rem;
 }
 .masthead .masthead-device-mockup {
   display: flex;
@@ -11625,7 +11624,7 @@ footer a:hover, footer a:active, footer a:focus {
     max-width: 17rem;
   }
 }
-.social{
+.social-icon{
 	position: relative;
 	text-align: center;
 	display: block;
@@ -11637,7 +11636,7 @@ footer a:hover, footer a:active, footer a:focus {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.social a {
+.social-icon a {
 	padding: 10px;
 	color: #ffffff;
 }
