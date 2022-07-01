@@ -205,7 +205,7 @@
 				<button class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" data-bs-target="#feedbackModal" style="color:#6c30e2; background-color:#ffffff;">
                         <span class="d-flex align-items-center">
                             <i class="bi-chat-text-fill me-2"></i>
-                            <span class="small">Contact</span>
+                            <span class="small">Contact Form</span>
                         </span>
                     </button><br><br>
 					Follow us on Social Media</h2>
