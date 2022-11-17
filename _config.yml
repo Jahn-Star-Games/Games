@@ -1,7 +1,8 @@
 title: Jahn Star Games
+description: The Next Generation of High-Fidelity Mobile Games. My Journey: Sebastia. Jahn Star Games.
 theme: jekyll-theme-cayman
-darkmode: true
 github:
-        is_project_page: false
-buttons: 
-        github_hide: true 
+ is_project_page: false
+ buttons: 
+ github_hide: true 
+ darkmode: true
