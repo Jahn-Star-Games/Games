@@ -3,6 +3,4 @@ author: Halil Emre Yildiz
 theme: jekyll-theme-cayman
 github:
  is_project_page: false
- buttons: 
- github_hide: true 
  darkmode: true
