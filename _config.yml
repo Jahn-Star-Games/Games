@@ -1,4 +1,7 @@
+title: Jahn Star Games
 theme: jekyll-theme-cayman
 darkmode: true
+github:
+        is_project_page: false
 buttons: 
         github_hide: true 
